@@ -22,7 +22,7 @@ public class Main {
             //int aux = i + 1;
             //colores[i] = color;
             System.out.println("Introduce el color número " + i + " : ");
-            String color = input.next();
+            //String color = input.next();
             colores.add(color);
         }
 
